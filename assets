@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit Phoenix IT Room site"
+git branch -M main
+git remote add origin https://github.com/toncompte/phoenix-it-room.git
+git push -u origin main
